@@ -159,10 +159,10 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "Frontend at ShirtThreads",
+    title: "Frontend at Eazy Shirt",
     size: ItemSize.SMALL,
     subtitle:
-      "Implemented key features such as product catalog browsing, cart management, secure payment gateways, user authentication, and order processing.",
+      "Implemented key features such as product catalog browsing, cart management, secure payment gateways, user authentication, and order processing using WixStudio",
     image: "/timeline/shirt.svg",
     slideImage: "/timeline/shirt2.png",
     shouldDrawLine: true,
@@ -201,9 +201,9 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "UI/UX Engineer",
+    title: "SMM at Ram Computer",
     size: ItemSize.SMALL,
-    subtitle: "Designing UI at Ram Computer",
+    subtitle: "",
     image: "/timeline/robot.svg",
     slideImage: "/timeline/flipkart.gif",
     shouldDrawLine: true,
