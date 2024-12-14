@@ -79,7 +79,7 @@ export const PROJECTS: IProject[] = [
     tech: ["react", "next", "mysql", "prisma"],
   },
   {
-    name: "Eazy Shirt",
+    name: "Eazy Shirts",
     image: "/projects/shirt.png",
     blurImage: "/projects/blur/shirt-blur.png",
     description: "Ecommerce Website with Wix Studio Backend",
