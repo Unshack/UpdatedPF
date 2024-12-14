@@ -79,13 +79,13 @@ export const PROJECTS: IProject[] = [
     tech: ["react", "next", "mysql", "prisma"],
   },
   {
-    name: "Eazy Shirts",
+    name: "Shirt Threads",
     image: "/projects/shirt.png",
     blurImage: "/projects/blur/shirt-blur.png",
-    description: "Ecommerce Website with Wix Studio Backend",
+    description: "Ecommerce Website MERN stack with payment method",
     gradient: ["#245B57", "#004741"],
-    url: "https://eazy-shirt.vercel.app/",
-    tech: ["figma", "react", "next", "typescript"],
+    url: "https://shirt-threads-frontend.vercel.app/",
+    tech: ["figma", "react", "mongodb", "tailwind"],
   },
   {
     name: "Job Seekers",
@@ -159,10 +159,10 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "Frontend at Eazy Shirt",
+    title: "FullStack at Shirt Threads",
     size: ItemSize.SMALL,
     subtitle:
-      "Implemented key features such as product catalog browsing, cart management, secure payment gateways, user authentication, and order processing using WixStudio",
+      "Implemented key features such as product catalog browsing, cart management, secure payment gateways, user authentication, and order processing",
     image: "/timeline/shirt.svg",
     slideImage: "/timeline/shirt2.png",
     shouldDrawLine: true,
@@ -201,7 +201,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "SMM at Ram Computer",
+    title: "Frontend at ShirtThreads",
     size: ItemSize.SMALL,
     subtitle: "",
     image: "/timeline/robot.svg",
